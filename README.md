@@ -1,1 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=005baf&height=340&section=header&text=JaeYoungKim&fontSize=90)
+Hello! i'm Jaeyoung
+![JaeYoungKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeYoungKimID&show_icons=true&theme=dark)
